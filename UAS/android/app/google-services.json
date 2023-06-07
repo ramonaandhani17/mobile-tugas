@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617020267417",
+    "project_id": "ramona-8fba5",
+    "storage_bucket": "ramona-8fba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617020267417:android:7061d62433ad7d77051108",
+        "android_client_info": {
+          "package_name": "com.example.petshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617020267417-q25tjsof9p1jml5c3d4sjvp0cbb27bab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr60N5b_vJRqtDjKnXf449ZS34tU7O6jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617020267417-q25tjsof9p1jml5c3d4sjvp0cbb27bab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
